@@ -7,6 +7,7 @@
 - Coroutine
 - Hilt (DI)
 - LiveData
+- Pagination
 - ViewBinding
 
 This project get Api From GITHUB USER
